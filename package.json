@@ -1,14 +1,9 @@
 {
   "name": "strapi-provider-upload-gyloss",
-  "version": "0.1.0",
-  "description": "Aliyun OSS provider for strapi upload",
+  "version": "1.0.0",
+  "description": "----",
   "homepage": "https://github.com/yerendao/strapi-provider-upload-gyloss",
-  "keywords": [
-    "upload",
-    "aliyun",
-    "oss",
-    "strapi"
-  ],
+  "keywords": [ "oss", "strapi" ],
   "directories": {
     "lib": "./lib"
   },
