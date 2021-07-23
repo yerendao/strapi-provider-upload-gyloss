@@ -2,7 +2,7 @@
   "name": "strapi-provider-upload-gyloss",
   "version": "0.1.0",
   "description": "Aliyun OSS provider for strapi upload",
-  "homepage": "http://strapi.io",
+  "homepage": "https://github.com/yerendao/strapi-provider-upload-gyloss",
   "keywords": [
     "upload",
     "aliyun",
@@ -26,8 +26,8 @@
   },
   "maintainers": [
     {
-      "name": "56774059@qq.com",
-      "email": "yerendao",
+      "name": "yerendao",
+      "email": "56774059@qq.com",
       "url": "http://www.66yunlian.cn"
     }
   ],
