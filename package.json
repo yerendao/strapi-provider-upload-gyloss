@@ -1,0 +1,46 @@
+{
+  "name": "strapi-provider-upload-gyloss",
+  "version": "0.1.0",
+  "description": "Aliyun OSS provider for strapi upload",
+  "homepage": "http://strapi.io",
+  "keywords": [
+    "upload",
+    "aliyun",
+    "oss",
+    "strapi"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib",
+  "dependencies": {
+    "ali-oss": "^6.0.1"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "author": {
+    "email": "56774059@qq.com",
+    "name": "yerendao",
+    "url": "http://66yunlian.cn"
+  },
+  "maintainers": [
+    {
+      "name": "56774059@qq.com",
+      "email": "yerendao",
+      "url": "http://www.66yunlian.cn"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yerendao/strapi-provider-upload-gyloss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yerendao/strapi-provider-upload-gyloss/issues"
+  },
+  "engines": {
+    "node": ">= 10.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "license": "MIT"
+}
